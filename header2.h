@@ -1,0 +1,1 @@
+void inutile(int a);

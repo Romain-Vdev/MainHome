@@ -1,0 +1,1 @@
+void utile(int b);
